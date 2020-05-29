@@ -1,0 +1,1 @@
+This file is created to practice git commands, I am going to close by ESC and :wq

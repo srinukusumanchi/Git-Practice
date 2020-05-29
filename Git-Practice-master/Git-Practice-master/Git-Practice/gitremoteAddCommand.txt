@@ -1,0 +1,1 @@
+I have downloaded git repo using download and want to upload repo to git hub using git remote add command
